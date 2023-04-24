@@ -1,4 +1,4 @@
--- cleaned data STRING --> dtype conversion
+-- cleaned data --> dtype conversion
 WITH enrollments AS
 (SELECT *
 FROM `INTO_Live_Brief.Fall_Enrollments_2020`
