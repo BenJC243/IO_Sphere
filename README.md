@@ -1,2 +1,2 @@
 # IO_Sphere
-Final Week Project of iO-Sphere Programme
+Final Week Live Brief Project of the iO-Sphere Programme
